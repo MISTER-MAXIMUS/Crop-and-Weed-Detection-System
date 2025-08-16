@@ -4,7 +4,7 @@ we made the crop and weed detection model using YOLOV3 on agricultural image dat
 
 
 
-![](https://drive.google.com/file/d/16VkLCaXFBddDFD7cuPd7r4APucocYkJr/view?usp=sharing)
+![](https://github.com/MISTER-MAXIMUS/imagess/blob/main/detection_1.jpeg)
 
 # Problem
 Weed is unwanted thing in agriculture. Weed use the nutrients, water ,land and many more thihngs that might have gone to crops.Which result less production of required crop.Farmer often use pesticides to remove weed which also affective but some pesticide may stick with crop and may causs problem for humans.
@@ -16,12 +16,12 @@ Each image is a 512 X 512 color image. Labels for images are in YOLO format.
 
 # Some images
 ### sesame crop
-![](https://drive.google.com/file/d/1HzZIsYmUynDG7K5F1mNGJCrc2twIumZ6/view?usp=sharing)
-![](https://drive.google.com/file/d/1WXy9xeVml0hSh2ccH-O7rWzhlrAAKv97/view?usp=sharing)
+![](https://github.com/MISTER-MAXIMUS/imagess/blob/main/68747470733a2f2f7777772e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6b6167676c652d757365722d636f6e74656e742f6f2f696e626f78253246333734353238302532466563313264626166626634623562366531.jpeg)
+![](https://github.com/MISTER-MAXIMUS/imagess/blob/main/68747470733a2f2f7777772e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6b6167676c652d757365722d636f6e74656e742f6f2f696e626f78253246333734353238302532466464383465313063643536633734353136.jpeg)
 
 ### weed
-![](https://drive.google.com/file/d/14oxWjjK7vkM1v0HVAFBhMOGYE_M8nETL/view?usp=sharing)
-![](https://drive.google.com/file/d/1vALdljxgFEKZ6muhVUx7VOAQDehSoVi4/view?usp=sharing)
+![](https://github.com/MISTER-MAXIMUS/imagess/blob/main/68747470733a2f2f7777772e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6b6167676c652d757365722d636f6e74656e742f6f2f696e626f78253246333734353238302532466266383636393437326361373739613336.jpeg)
+![](https://github.com/MISTER-MAXIMUS/imagess/blob/main/68747470733a2f2f7777772e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6b6167676c652d757365722d636f6e74656e742f6f2f696e626f78253246333734353238302532463232336531616531626332623264393736.jpeg)
 ![]
 
 
