@@ -1,6 +1,6 @@
 # Crop_and_weed_detection
 we made the crop and weed detection model using YOLOV3 on agricultural image data.
-![](https://github.com/MISTER-MAXIMUS/Crop-and-Weed-Detection-System/blob/main/detection.jpg)
+![](https://github.com/MISTER-MAXIMUS/imagess/blob/main/detection.jpg)
 
 
 
